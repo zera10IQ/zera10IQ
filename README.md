@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Max, an autodidact programmer based in Chile, latin america
+Im Max
   Now I building an Discord Bot for Minecraft Servers based in Python with multiples tools to made it the stronger bot out there
 
 Im a Python and C++ enjoyer 🤠
