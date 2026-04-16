@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Im Max
+Im Max,
   Now I building an Discord Bot for Minecraft Servers based in Python with multiples tools to made it the stronger bot out there
 
 Im a Python and C++ enjoyer 🤠
